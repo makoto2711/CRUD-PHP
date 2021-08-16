@@ -1,0 +1,27 @@
+:root
+{
+    --h: 60vh;
+}
+
+body 
+{
+    background-color: #5a4848;
+}
+
+
+.vh-70
+{
+    height: var(--h);
+    overflow-y: auto;
+}
+
+
+
+.sticky-head
+{
+    position: sticky;
+    top: 0;
+}
+
+
+
